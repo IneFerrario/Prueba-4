@@ -1,2 +1,1 @@
-# Vamos-que-se-puede
-Este es un ejemplo que después se borrará desde Git Bash
+Este proyecto es una pruba de como crear un repositorio y clonarlo desde git hub a mi escritorio
